@@ -10,11 +10,12 @@ The executable takes a single argument (mode).
 
 Argument - 1 - Mode
 
-1) Original
-2) malloc
-3) Static
-4) Pass by Reference
-
+| Number  | Interpretation     |
+|---------| --------------     |
+| 1       | Original           |
+| 2       | Malloc             |
+| 3       | Static             |
+| 4       | Pass By Reference  |
 
 
 
